@@ -1,0 +1,6 @@
+osm_test_example.py
+*.html
+__pycache__
+*/__pycache__
+*/*/__pycache__
+.pytest_cache
